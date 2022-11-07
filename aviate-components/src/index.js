@@ -1,7 +1,2 @@
 export { default as SampleComponent } from "./components/sampleComponent.jsx";
-
-function index() {
-  pass();
-}
-
-export default index;
+export { default as Button } from "./components/Button.jsx";
